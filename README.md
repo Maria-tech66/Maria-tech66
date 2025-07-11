@@ -7,8 +7,8 @@
 <h1 align="center"> Olá! Eu sou a Maria Aparecida 👋</h1>
 
 <p align="center">
-  Desenvolvedora em formação | Front-End • Back-End • Full Stack Junior  
-  Focada em transformar conhecimento em soluções reais com código.
+  Desenvolvedora em formação | Front-End • Back-End • Full Stack Junior</p>  
+ <p align="center"> Focada em transformar conhecimento em soluções reais com código.
 </p>
 
 ---
